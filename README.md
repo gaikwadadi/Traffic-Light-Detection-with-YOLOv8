@@ -1,6 +1,6 @@
 # Traffic Light Detection with YOLOv8
 
-project drive link - https://colab.research.google.com/drive/17UkrLOWPIphplgOaXop15B1PpjamZ2xG#scrollTo=bWsPNz_DqZ8Z
+Project Google colab link - https://colab.research.google.com/drive/17UkrLOWPIphplgOaXop15B1PpjamZ2xG#scrollTo=bWsPNz_DqZ8Z
 
 This project implements a Traffic Light Detection System using the YOLOv8 object detection model.
 It detects traffic lights in real-world images under diverse lighting and weather conditions using the Small Traffic Light Dataset (S2TLD).
